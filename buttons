@@ -1,0 +1,21 @@
+X Button	4	304	0 or 1	0 Released/1 Pressed
+Circle Button	4	305	0 or 1	0 Released/1 Pressed
+Triangle Burron	4	307	0 or 1	0 Released/1 Pressed
+Square Button	4	308	0 or 1	0 Released/1 Pressed
+Share Button	4	314	0 or 1	0 Released/1 Pressed
+Options Button	4	315	0 or 1	0 Released/1 Pressed
+PS Button	4	316	0 or 1	0 Released/1 Pressed
+Left Stick Push	4	317	0 or 1	0 Released/1 Pressed
+Right Stick Push	4	318	0 or 1	0 Released/1 Pressed
+L1	4	310	0 or 1	0 Released/1 Pressed
+R1	4	311	0 or 1	0 Released/1 Pressed
+L2	4	312	0 or 1	0 Released/1 Pressed
+R2	4	313	0 or 1	0 Released/1 Pressed
+Left Stick Horizontal Axis	3	0	0 to 255	0 Left/127 Middle/255 Right
+Left Stick Vertical Axis	3	1	0 to 255	0 Top/127 Middle/255 Bottom
+L2 Axis	3	2	0 to 255	0 Released/255 Completely Pressed
+Right Stick Horizontal Axis	3	3	0 to 255	0 Left/127 Middle/255 Right
+Right Stick Vertical Axis	3	4	0 to 255	0 Top/127 Middle/255 Bottom
+R2 Axis	3	4	0 to 255	0 Left/127 Middle/255 Right
+Directional Pad Horizontal	3	16	-1, 0 or 1	-1 Right/0 Released, 1 Left
+Directional Pad Vertical	3	17	-1, 0 or 1	-1 Right/0 Released, 1 Left
